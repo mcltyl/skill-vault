@@ -39,6 +39,14 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 | **[honest-feedback-skills](https://github.com/mcltyl/honest-feedback-skills)** | Get real critique instead of "looks great!" | `npx skills add git@github.com:mcltyl/honest-feedback-skills.git` |
 | **[concise-mode-skills](https://github.com/mcltyl/concise-mode-skills)** | Cut the fluff, get to the point | `npx skills add git@github.com:mcltyl/concise-mode-skills.git` |
 
+### 🔄 PM Translation (Bridging Roles)
+
+| Skill | Description | Install |
+|-------|-------------|---------|
+| **[pm-engineer-translation-skills](https://github.com/mcltyl/pm-engineer-translation-skills)** | Bridge PM ↔ Engineer communication gaps | `npx skills add git@github.com:mcltyl/pm-engineer-translation-skills.git` |
+| **[pm-designer-translation-skills](https://github.com/mcltyl/pm-designer-translation-skills)** | Bridge PM ↔ Designer communication gaps | `npx skills add git@github.com:mcltyl/pm-designer-translation-skills.git` |
+| **[pm-user-translation-skills](https://github.com/mcltyl/pm-user-translation-skills)** | Bridge PM ↔ User communication gaps | `npx skills add git@github.com:mcltyl/pm-user-translation-skills.git` |
+
 ### 🎨 Content & Branding
 
 | Skill | Description | Install |
@@ -50,6 +58,7 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 | Skill | Description | Install |
 |-------|-------------|---------|
 | **[taiwan-guide-skills](https://github.com/mcltyl/taiwan-guide-skills)** | Taiwan travel, food, visa, politics, and living (8 sub-skills) | `npx skills add git@github.com:mcltyl/taiwan-guide-skills.git` |
+| **[taiwan-forum-search](https://github.com/mcltyl/taiwan-forum-search)** | Search PTT, Dcard, Mobile01, and Taiwan forums | `npx skills add git@github.com:mcltyl/taiwan-forum-search.git` |
 
 ### 🧘 Psychology & Mindset
 
