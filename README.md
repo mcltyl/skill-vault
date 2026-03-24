@@ -90,18 +90,6 @@ git clone https://github.com/mcltyl/[skill-name].git ~/.opencode/skills/[skill-n
 
 ---
 
-## 💰 Premium Versions
-
-Want more examples, ready-to-use scripts, and quick reference cards?
-
-Check out our **[Notion Marketplace Templates](https://notion.so)** — premium versions with:
-- 10+ real-world examples
-- Copy-paste scripts
-- Common mistakes + fixes
-- Quick reference cards
-
----
-
 ## 🤝 Contributing
 
 Found a bug? Have an improvement? PRs welcome!
