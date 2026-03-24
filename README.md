@@ -69,6 +69,7 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 | **[3am-spiral-skills](https://github.com/mcltyl/3am-spiral-skills)** | Cognitive defusion for 3am racing thoughts | `npx skills add git@github.com:mcltyl/3am-spiral-skills.git` |
 | **[envy-compass-skills](https://github.com/mcltyl/envy-compass-skills)** | Transform jealousy into career navigation | `npx skills add git@github.com:mcltyl/envy-compass-skills.git` |
 | **[sunday-dread-skills](https://github.com/mcltyl/sunday-dread-skills)** | Track and diagnose Sunday night anxiety | `npx skills add git@github.com:mcltyl/sunday-dread-skills.git` |
+| **[should-i-quit-skills](https://github.com/mcltyl/should-i-quit-skills)** | 100-point diagnostic for the quit decision | `npx skills add git@github.com:mcltyl/should-i-quit-skills.git` |
 
 ### 📝 Personal Productivity
 
