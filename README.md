@@ -1,6 +1,6 @@
-# Agent Skills Collection
+# Skill Vault 🔐
 
-> **20+ Agent Skills for Claude Code, Codex CLI, and OpenClaw.** Free and open source.
+> **20+ Agent Skills for Claude Code, Codex CLI, and OpenClaw.** Your AI toolkit, free and open source.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -122,8 +122,16 @@ All skills are MIT licensed. Use them however you want.
 
 **Marcel Lin (mcltyl)**
 
+- LinkedIn: [tingyulintyl](https://www.linkedin.com/in/tingyulintyl)
 - GitHub: [@mcltyl](https://github.com/mcltyl)
-- Twitter: [@mcltyl](https://twitter.com/mcltyl)
+
+---
+
+## ☕ Support
+
+If you find these skills useful, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/mclty)
 
 ---
 
