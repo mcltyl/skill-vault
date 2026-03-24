@@ -66,6 +66,9 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 |-------|-------------|---------|
 | **[anti-pua-skills](https://github.com/mcltyl/anti-pua-skills)** | Detect and disarm psychological manipulation | `npx skills add git@github.com:mcltyl/anti-pua-skills.git` |
 | **[taoist-surrender-skills](https://github.com/mcltyl/taoist-surrender-skills)** | Let go and flow with the Tao | `npx skills add git@github.com:mcltyl/taoist-surrender-skills.git` |
+| **[3am-spiral-skills](https://github.com/mcltyl/3am-spiral-skills)** | Cognitive defusion for 3am racing thoughts | `npx skills add git@github.com:mcltyl/3am-spiral-skills.git` |
+| **[envy-compass-skills](https://github.com/mcltyl/envy-compass-skills)** | Transform jealousy into career navigation | `npx skills add git@github.com:mcltyl/envy-compass-skills.git` |
+| **[sunday-dread-skills](https://github.com/mcltyl/sunday-dread-skills)** | Track and diagnose Sunday night anxiety | `npx skills add git@github.com:mcltyl/sunday-dread-skills.git` |
 
 ### 📝 Personal Productivity
 
