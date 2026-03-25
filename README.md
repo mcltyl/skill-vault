@@ -77,6 +77,13 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 |-------|-------------|---------|
 | **[catch-the-dream-skills](https://github.com/mcltyl/catch-the-dream-skills)** | Capture dreams before they fade (voice/text) | `npx skills add git@github.com:mcltyl/catch-the-dream-skills.git` |
 | **[what-did-i-do-this-week-skills](https://github.com/mcltyl/what-did-i-do-this-week-skills)** | Turn scattered activities into weekly summaries | `npx skills add git@github.com:mcltyl/what-did-i-do-this-week-skills.git` |
+| **[escape-busy-trap-skills](https://github.com/mcltyl/escape-busy-trap-skills)** | Audit your week: Motion vs Progress | `npx skills add git@github.com:mcltyl/escape-busy-trap-skills.git` |
+
+### 🩹 Emotional First Aid
+
+| Skill | Description | Install |
+|-------|-------------|---------|
+| **[harsh-feedback-skills](https://github.com/mcltyl/harsh-feedback-skills)** | 10 minutes from spiral to action plan after criticism | `npx skills add git@github.com:mcltyl/harsh-feedback-skills.git` |
 
 ---
 
