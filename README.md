@@ -78,12 +78,17 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 | **[catch-the-dream-skills](https://github.com/mcltyl/catch-the-dream-skills)** | Capture dreams before they fade (voice/text) | `npx skills add git@github.com:mcltyl/catch-the-dream-skills.git` |
 | **[what-did-i-do-this-week-skills](https://github.com/mcltyl/what-did-i-do-this-week-skills)** | Turn scattered activities into weekly summaries | `npx skills add git@github.com:mcltyl/what-did-i-do-this-week-skills.git` |
 | **[escape-busy-trap-skills](https://github.com/mcltyl/escape-busy-trap-skills)** | Audit your week: Motion vs Progress | `npx skills add git@github.com:mcltyl/escape-busy-trap-skills.git` |
+| **[post-meeting-rescue-skills](https://github.com/mcltyl/post-meeting-rescue-skills)** | Capture action items before they disappear | `npx skills add git@github.com:mcltyl/post-meeting-rescue-skills.git` |
+| **[gift-panic-skills](https://github.com/mcltyl/gift-panic-skills)** | Birthday in 2 days, no idea what to get | `npx skills add git@github.com:mcltyl/gift-panic-skills.git` |
+| **[ingredient-pivot-skills](https://github.com/mcltyl/ingredient-pivot-skills)** | Mid-recipe substitutions instantly | `npx skills add git@github.com:mcltyl/ingredient-pivot-skills.git` |
 
 ### 🩹 Emotional First Aid
 
 | Skill | Description | Install |
 |-------|-------------|---------|
 | **[harsh-feedback-skills](https://github.com/mcltyl/harsh-feedback-skills)** | 10 minutes from spiral to action plan after criticism | `npx skills add git@github.com:mcltyl/harsh-feedback-skills.git` |
+| **[escape-the-scroll-skills](https://github.com/mcltyl/escape-the-scroll-skills)** | 11pm still scrolling? Gentle redirect, not a blocker | `npx skills add git@github.com:mcltyl/escape-the-scroll-skills.git` |
+| **[draft-the-hard-reply-skills](https://github.com/mcltyl/draft-the-hard-reply-skills)** | Don't know how to respond to that message? | `npx skills add git@github.com:mcltyl/draft-the-hard-reply-skills.git` |
 
 ---
 
