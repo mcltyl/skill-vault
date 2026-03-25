@@ -37,6 +37,7 @@ Agent Skills are instruction files that teach AI coding assistants how to handle
 | **[upward-management-skills](https://github.com/mcltyl/upward-management-skills)** | Write emails your boss actually reads (BLUF method) | `npx skills add git@github.com:mcltyl/upward-management-skills.git` |
 | **[apology-skills](https://github.com/mcltyl/apology-skills)** | Craft genuine apologies that work | `npx skills add git@github.com:mcltyl/apology-skills.git` |
 | **[honest-feedback-skills](https://github.com/mcltyl/honest-feedback-skills)** | Get real critique instead of "looks great!" | `npx skills add git@github.com:mcltyl/honest-feedback-skills.git` |
+| **[say-it-today-skills](https://github.com/mcltyl/say-it-today-skills)** | Stop avoiding that conversation. Prep and do it today. | `npx skills add git@github.com:mcltyl/say-it-today-skills.git` |
 | **[concise-mode-skills](https://github.com/mcltyl/concise-mode-skills)** | Cut the fluff, get to the point | `npx skills add git@github.com:mcltyl/concise-mode-skills.git` |
 
 ### 🔄 PM Translation (Bridging Roles)
