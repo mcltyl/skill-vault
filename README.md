@@ -150,3 +150,8 @@ If you find these skills useful, consider buying me a coffee!
 ---
 
 *Made with 🔥 in Taiwan*
+| **[promise-debt-tracker-skills](https://github.com/mcltyl/promise-debt-tracker-skills)** | Surface forgotten micro-commitments | `npx skills add git@github.com:mcltyl/promise-debt-tracker-skills.git` |
+| **[meeting-autopsy-skills](https://github.com/mcltyl/meeting-autopsy-skills)** | What was the ONE decision? Who owes what? | `npx skills add git@github.com:mcltyl/meeting-autopsy-skills.git` |
+| **[tab-intention-skills](https://github.com/mcltyl/tab-intention-skills)** | Capture intent before context-switching | `npx skills add git@github.com:mcltyl/tab-intention-skills.git` |
+| **[just-do-it-manually-skills](https://github.com/mcltyl/just-do-it-manually-skills)** | Stop over-engineering, just do the task | `npx skills add git@github.com:mcltyl/just-do-it-manually-skills.git` |
+| **[cold-outreach-warmup-skills](https://github.com/mcltyl/cold-outreach-warmup-skills)** | Genuine hooks for cold outreach | `npx skills add git@github.com:mcltyl/cold-outreach-warmup-skills.git` |
